@@ -1,4 +1,4 @@
-- Heyo, I'm @MissFruit
-- I’m interested in Geography and Coding
-- I’m currently learning software engineering
+- Heyo, I'm @MissFruit,
+- I’m interested in Geography and Coding,
+- I’m currently learning software engineering,
 - I hope you have a nice day!
